@@ -21,5 +21,4 @@ The technology used here is :
 ## Blog Posts
 
 1. [TypeScript-এ any, unknown আর never কীভাবে কাজ করে?](./any-unknown-never.md)
-2. [Type Narrowing in TypeScript](./type-narrowing.md)
-
+2. [Type Narrowing in TypeScript](./type-vs-interface.md)
